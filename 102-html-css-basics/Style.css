@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: brown;
+}
+img{
+    border-radius: 50%;
+}
+h2 {
+  color: rgb(13, 13, 39);
+  text-align: center;
+}
+p {
+  text-align: center;
+  background-color: aliceblue;
+}
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-family: "Roboto";
+    font-weight: 700;
+}
